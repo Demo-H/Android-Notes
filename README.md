@@ -4,7 +4,7 @@
 ## Android
 
 - [Android基础]
-- [Android插件化]
+- [Android插件化](https://github.com/Demo-H/Android-Notes/blob/master/notes/android/Android 插件化目录.md)
 - [Android加固]
 - [Android性能优化]
 - [Android框架源码分析]
