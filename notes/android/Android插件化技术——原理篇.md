@@ -1,0 +1,7 @@
+# Android插件化技术——原理篇
+
+## 导语
+
+尽管有很多说插件化从入门到放弃的声音，但不可否认插件化技术是Android高级开发工程师所必须具备的技能之一，从2012年插件化概念的提出，到2016年插件化的百花争艳，可以说，插件化技术引领着Android技术的进步。本篇文章是在腾讯bugly公众号（作者：joeyongzhu）文章的基础上进行完善和补充。原文点击[链接](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653579547&idx=1&sn=9f782f6c91c20fd0b17a6c3762b6e06a&chksm=84b3bb1cb3c4320ad660e3a4a274aa2e433bf0401389f38be337d01d2ba604714303e169d48a&mpshare=1&scene=1&srcid=&key=352cdcf02fb917f63037a2a8bf1865539d5eeaab16551c38363de0631f230e5c87542d4db35f8c1b078014cdd92f7455b6d39e34328ee36749c2f120b5707b290c8da43921650b0be81cef2123dea77d&ascene=1&uin=MjQ1MDc4NzYwMA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=ArNvTjFA65tiw4MTWUfrPIvwpukaTKv7HHBc33MPAonCQKLojOLSKDN5LcC83GJc)
+
+
