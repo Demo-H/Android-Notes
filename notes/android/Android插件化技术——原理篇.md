@@ -6,4 +6,4 @@
 
 
 
-![插件化技术](https://github.com/Demo-H/Android-Notes/tree/master/assets/hook.png)
+![插件化技术](https://github.com/Demo-H/Android-Notes/raw/master/assets/hook.png)
