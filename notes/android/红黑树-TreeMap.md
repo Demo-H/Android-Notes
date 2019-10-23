@@ -39,6 +39,7 @@
 是不是会觉得很别扭，强迫症的我做这个gif图的时候都抓狂。要是节点足够多的话，就会出现树的一条腿会变的非常长，它虽然满足二叉查找树的特性，但查询的时候已经变成线性查询，等同于链表查询效率了。为了解决这种多次插入而导致的不平衡，我们就需要引入红黑树。
 
 **红黑树的特性**
+
 红黑树就是一种平衡二叉查找树，它具有的特性
 - （1）节点是红色或者黑色
 - （2）根节点是黑色
@@ -47,14 +48,16 @@
 - （5）从任意节点到其每个叶子的所有路径都包含相同的黑色节点。
 
 如果你的英文好，可以直接看原文
+
 - (1)Each node is either red or black.
 - (2)The root is black. This rule is sometimes omitted. Since the root can always be changed from red to black,but not necessarily vice versa, this rule has little effect on analysis.
 - (3)All leaves (NIL) are black.
 - (4)If a node is red, then both its children are black.
 - (5)Every path from a given node to any of its descendant NIL nodes contains the same number of black nodes.
+
 这么多的条条框框，看着就觉得满足这些条件是一件很艰难的事情，但正因为这些规则，才保证了红黑树的平衡。
 
-![红黑树](https://github.com/Demo-H/Android-Notes/raw/master/assets/query.png)
+![红黑树](https://github.com/Demo-H/Android-Notes/raw/master/assets/red_and_black.png)
 
 ## 二. 查询
 红黑树的查询和上文所述的二叉查找树查询是一样的，当我们查某个数的时候，只需要把这个数从根节点比较，如果比根节点大，那就继续比较根节点的右节点，否则就是根节点的左节点，以此循环。
