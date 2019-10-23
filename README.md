@@ -7,7 +7,7 @@
 - [Android插件化](https://github.com/Demo-H/Android-Notes/blob/master/notes/android/Android%20插件化目录.md)
 - [Android加固]
 - [Android性能优化]
-- [Android框架源码分析]
+- [Android框架源码分析](https://github.com/Demo-H/Android-Notes/blob/master/notes/android/Android框架源码分析.md)
 - [Android常见问题]
 
 ## Java
