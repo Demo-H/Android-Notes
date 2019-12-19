@@ -30,7 +30,7 @@
 ## 面向对象
 
 - [面向对象思想]
-- [设计模式]
+- [设计模式](https://github.com/Demo-H/Android-Notes/blob/master/notes/common/设计模式.md)
 
 ## 操作系统
 
